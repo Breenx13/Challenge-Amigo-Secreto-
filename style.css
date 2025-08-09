@@ -160,3 +160,28 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/*boton de reinicio que añadí*/
+/* Botón de reinicio igual al de sortear pero en azul */
+.btn-reiniciar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-white);
+    background-color: #2196f3; /* Azul */
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    border: 2px solid #000;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+.btn-reiniciar img {
+    margin-right: 40px; /* Igual que en .button-draw */
+}
+
+.btn-reiniciar:hover {
+    background-color: #1976d2; /* Azul más oscuro */
+}
