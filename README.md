@@ -45,6 +45,8 @@ Habrá un boton "Nuevo sorteo" para que se pueda realizar las veces que se dese�
 
 <h2>🎥Demo </h2>
 
-![Ver video en grande](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/Breenx13/Challenge-Amigo-Secreto-/raw/main/videoamigo_WkoEkAhR.mp4)
+<p align="center">
+  <img src="https://github.com/Breenx13/Challenge-Amigo-Secreto-/raw/main/assets/demo.gif.gif" width="800" />
+</p>
 
 
