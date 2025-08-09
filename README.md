@@ -38,9 +38,9 @@ Habrá un boton "Nuevo sorteo" para que se pueda realizar las veces que se dese�
   - Compatible con dispositivos móviles y escritorio.
  
   ## 📂 Tecnologías utilizadas
-- **HTML5** – Estructura de la página
-- **CSS3** – Estilos y diseño
-- **JavaScript (ES6)** – Lógica y funcionalidad
+- **HTML** – Estructura de la página
+- **CSS** – Estilos y diseño
+- **JavaScript** – Lógica y funcionalidad
 
 
 <h2>🎥Demo </h2>
