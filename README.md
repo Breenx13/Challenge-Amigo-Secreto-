@@ -46,7 +46,7 @@ Habrá un boton "Nuevo sorteo" para que se pueda realizar las veces que se dese�
 <h2>🎥Demo </h2>
 
 <p align="center">
-  <img src="https://github.com/Breenx13/Challenge-Amigo-Secreto-/raw/main/assets/demo.gif.gif" width="800" />
+  <img src="https://github.com/Breenx13/Challenge-Amigo-Secreto-/blob/main/assets/videocanva.gif" width="800" />
 </p>
 
 
